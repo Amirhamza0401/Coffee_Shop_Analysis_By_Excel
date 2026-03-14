@@ -1,5 +1,4 @@
 # Coffee_Shop_Analysis_By_Excel
-# Coffee Shop Sales Dashboard – README
 
 ## Overview
 
